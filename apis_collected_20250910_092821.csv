@@ -1,0 +1,82 @@
+url,status_code,content_type,server,is_functional,response_time,supports_cors,requires_auth,rate_limited,type
+https://www.api2convert.com/,200,text/html; charset=UTF-8,cloudflare,True,0.227401,False,False,False,Unknown
+https://apilist.fun/category/project-management,200,text/html; charset=utf-8,cloudflare,True,0.253773,False,False,False,Unknown
+https://apilist.fun/category/geospatial,200,text/html; charset=utf-8,cloudflare,True,0.394559,False,False,False,Unknown
+https://www.apicagent.com,200,text/html; charset=UTF-8,Netlify,True,0.510612,False,False,False,Unknown
+https://www.smarty.com/docs/cloud/us-street-api,200,text/html; charset=utf-8,Vercel,True,0.19124,True,False,False,Unknown
+https://marketstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,200,text/html; charset=UTF-8,cloudflare,True,0.668466,False,False,False,Unknown
+https://rapidapi.com/user/inferdo,200,text/html; charset=utf-8,cloudflare,True,0.67369,False,False,False,Unknown
+https://github.com/mazipan/graphql-pokeapi,200,text/html; charset=utf-8,github.com,True,0.680433,False,False,False,GraphQL
+https://www.animenewsnetwork.com/encyclopedia/api.php,200,text/html; charset=UTF-8,cloudflare,True,0.492372,False,False,False,Unknown
+https://github.com/public-apis/public-apis/search?l=shell,200,text/html; charset=utf-8,github.com,True,0.330492,False,False,False,Unknown
+https://apilist.fun/category/random,200,text/html; charset=utf-8,cloudflare,True,0.319169,False,False,False,Unknown
+https://opendata.umea.se/api,200,text/html; charset=utf-8,openresty,True,0.295825,True,False,False,Unknown
+https://dog.ceo/dog-api/,200,text/html; charset=UTF-8,cloudflare,True,0.194097,False,False,False,Unknown
+https://www.mmobomb.com/api,200,text/html;charset=UTF-8,cloudflare,True,0.061504,False,False,False,Unknown
+https://github.com/public-apis/public-apis#test-data,200,text/html; charset=utf-8,github.com,True,0.775923,False,False,False,Unknown
+https://apilist.fun/out/imgflip,200,text/html; charset=utf-8,cloudflare,True,0.718151,False,False,False,Unknown
+https://mailtrap.docs.apiary.io/,200,text/html; charset=utf-8,,True,0.854723,False,False,False,Unknown
+https://apikijangportal.bnm.gov.my/,200,text/html; charset=utf-8,cloudflare,True,0.913099,False,False,False,Unknown
+https://apilist.fun/category/images,200,text/html; charset=utf-8,cloudflare,True,0.357485,False,False,False,Unknown
+https://core.telegram.org/api,200,text/html; charset=utf-8,nginx/1.18.0,True,0.196813,False,False,False,Unknown
+https://github.com/beanboi7/yomomma-apiv2,200,text/html; charset=utf-8,github.com,True,0.667543,False,False,False,Unknown
+https://docs.microsoft.com/en-us/rest/api/resourcehealth,200,text/html,,True,0.253578,False,False,False,Unknown
+https://rapidapi.com/GiulianoCrescimbeni/api/football98/,200,text/html; charset=utf-8,cloudflare,True,0.547287,False,False,False,Unknown
+https://www.abstractapi.com/email-verification-validation-api,200,text/html,,True,0.0586,False,False,False,Unknown
+http://developer.ticketmaster.com/products-and-docs/apis/getting-started/,200,text/html; charset=UTF-8,,True,0.425532,True,False,False,Unknown
+http://api.oceandrivers.com/static/docs.html,200,text/html; charset=utf-8,Apache,True,0.192647,True,False,False,Unknown
+https://docs.moov.io/api/,200,text/html; charset=UTF-8,Netlify,True,0.417654,False,False,False,Unknown
+https://urlhaus-api.abuse.ch/,200,text/html; charset=UTF-8,nginx/1.22.1,True,0.218613,False,False,False,Unknown
+https://www.theaudiodb.com/api_guide.php,200,text/html; charset=UTF-8,cloudflare,True,0.192492,True,False,False,Unknown
+https://www.thesportsdb.com/api.php,200,text/html; charset=UTF-8,cloudflare,True,0.169425,True,False,False,Unknown
+https://apilist.fun/api/redtube-api,200,text/html; charset=utf-8,cloudflare,True,0.299475,False,False,False,Unknown
+https://api.creativecommons.engineering/,200,text/html; charset=utf-8,cloudflare,True,0.085546,False,False,False,Unknown
+https://api.techniknews.net,200,text/html; charset=UTF-8,cloudflare,True,0.268333,True,False,False,Unknown
+https://docs.github.com/en/free-pro-team@latest/rest,200,text/html; charset=utf-8,,True,0.08762,True,False,False,Unknown
+https://api.squiggle.com.au,200,text/html; charset=UTF-8,cloudflare,True,0.562221,True,False,False,Unknown
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpublic-apis%2Fpublic-apis,200,text/html; charset=utf-8,github.com,True,0.32237,False,False,False,Unknown
+https://www.reddit.com/dev/api,200,text/html; charset=UTF-8,snooserv,True,0.31144,False,False,False,Unknown
+https://docs.moov.io/api,200,text/html; charset=UTF-8,Netlify,True,0.167682,False,False,False,Unknown
+https://apilist.fun/api/imgflip,200,text/html; charset=utf-8,cloudflare,True,0.271644,False,False,False,Unknown
+https://apilist.fun/category/semantics,200,text/html; charset=utf-8,cloudflare,True,0.270324,False,False,False,Unknown
+https://rapidapi.com/apidojo/api/tasty/,200,text/html; charset=utf-8,cloudflare,True,2.458412,False,False,False,Unknown
+https://uebermaps.com/api,200,text/html,Vercel,True,0.275531,False,False,False,Unknown
+https://apilist.fun/category/government,200,text/html; charset=utf-8,cloudflare,True,0.374425,False,False,False,Unknown
+https://beta.developer.spotify.com/documentation/web-api/,200,text/html; charset=utf-8,envoy,True,0.063979,False,False,False,Unknown
+https://perspectiveapi.com,200,text/html,Google Frontend,True,0.291123,False,False,False,Unknown
+https://random-d.uk/api,200,text/html; charset=utf-8,cloudflare,True,0.244058,False,False,False,Unknown
+https://github.com/topics/public-apis,200,text/html; charset=utf-8,github.com,True,1.126297,False,False,False,Unknown
+https://www.ideracorp.com/legal/APILayer,200,text/html; charset=utf-8,cloudflare,True,0.55119,False,False,False,Unknown
+https://dictionaryapi.com/,200,text/html; charset=utf-8,nginx,True,0.387415,False,False,False,Unknown
+https://apilist.fun/category/audio,200,text/html; charset=utf-8,cloudflare,True,0.263136,False,False,False,Unknown
+https://www.abstractapi.com/holidays-api,200,text/html,,True,0.063355,False,False,False,Unknown
+https://randommer.io/randommer-api,200,text/html; charset=utf-8,cloudflare,True,0.448684,False,False,False,Unknown
+https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo,200,text/html; charset=utf-8,cloudflare,True,0.271957,False,False,False,Unknown
+https://helipaddy.com/api/,200,text/html; charset=UTF-8,cloudflare,True,0.187372,False,False,False,Unknown
+https://developers.google.com/slides/api/reference/rest,200,text/html; charset=utf-8,Google Frontend,True,0.528371,False,False,False,Unknown
+https://rapidapi.com/unogs/api/unogsng,200,text/html; charset=utf-8,cloudflare,True,0.467896,False,False,False,Unknown
+https://api.gouv.fr/api/geoapi.html,200,text/html; charset=utf-8,nginx/1.18.0 (Ubuntu),True,0.040411,False,False,False,Unknown
+https://apilist.fun/category/transportation,200,text/html; charset=utf-8,cloudflare,True,0.222964,False,False,False,Unknown
+https://github.com/public-apis/public-apis#government,200,text/html; charset=utf-8,github.com,True,0.129725,False,False,False,Unknown
+https://www.cloudmersive.com/nlp-api,200,text/html; charset=utf-8,,True,0.617061,False,False,False,Unknown
+https://kanye.rest,200,text/html; charset=utf-8,cloudflare,True,0.181072,True,False,False,Unknown
+https://seller.flipkart.com/api-docs/FMSAPI.html,200,text/html,nginx,True,1.402769,False,False,False,Unknown
+https://github.com/public-apis/public-apis/blob/master/CONTRIBUTING.md,200,text/html; charset=utf-8,github.com,True,0.331078,False,False,False,Unknown
+https://apilist.fun/category/recommendations,200,text/html; charset=utf-8,cloudflare,True,0.210328,False,False,False,Unknown
+https://api.count.ly,200,text/html; charset=utf-8,cloudflare,True,0.261097,False,False,False,Unknown
+https://www.datamuse.com/api/,200,text/html; charset=UTF-8,Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/5.4.16 mod_perl/2.0.11 Perl/v5.16.3,True,0.490739,False,False,False,Unknown
+https://github.com/mathdroid/covid-19-api,200,text/html; charset=utf-8,github.com,True,0.718686,False,False,False,Unknown
+https://fakestoreapi.com/,200,text/html; charset=utf-8,cloudflare,True,0.139226,True,False,False,Unknown
+https://api.open.fec.gov/developers/,200,text/html; charset=utf-8,,True,1.233027,True,False,False,Unknown
+https://apilist.fun/category/content,200,text/html; charset=utf-8,cloudflare,True,0.198423,False,False,False,Unknown
+https://github.com/robertoduessmann/weather-api,200,text/html; charset=utf-8,github.com,True,0.480609,False,False,False,Unknown
+https://apis.guru/api-doc/,200,text/html; charset=utf-8,cloudflare,True,0.234246,False,False,False,Unknown
+https://github.com/4chan/4chan-API,200,text/html; charset=utf-8,github.com,True,0.602088,False,False,False,Unknown
+https://www.photoroom.com/api,200,text/html; charset=utf-8,Vercel,True,0.123885,False,False,False,Unknown
+https://apilist.fun/category/astrology,200,text/html; charset=utf-8,cloudflare,True,0.371939,False,False,False,Unknown
+https://any-api.com/newsletter,200,text/html; charset=utf-8,cloudflare,True,0.2823,False,False,False,Unknown
+https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a,200,text/html; charset=utf-8,nginx,True,0.257389,False,False,False,Unknown
+https://sunrise-sunset.org/api,200,text/html; charset=UTF-8,cloudflare,True,0.301567,False,False,False,Unknown
+https://domainsdb.info/api,200,text/html,,True,0.444503,False,False,False,Unknown
+https://cutt.ly/api,200,text/html; charset=UTF-8,nginx,True,0.722922,False,False,False,Unknown
+https://documentation.onesignal.com/docs/onesignal-api,200,text/html; charset=utf-8,Vercel,True,0.56692,False,False,False,Unknown
